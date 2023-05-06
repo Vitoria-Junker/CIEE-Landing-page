@@ -9,10 +9,6 @@ export default function Iniciativas() {
           <h1 className="font-bold text-3xl ">
             Conecte-se com as iniciativas do CIEE
           </h1>
-          <Link href="/" className="hover:underline mt-2">
-            {" "}
-            Ver tudo
-          </Link>
         </div>
         <div className="p-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-12">
           <IniciativasCard

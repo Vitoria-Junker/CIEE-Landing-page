@@ -45,7 +45,7 @@ export default function IniciativasCard({ src, title, content, bgColor }) {
   return (
     <>
       <div className="transition h-full md:h-screen flex justify-center items-center">
-        <div className={`rounded-md w-70 max-h-full shadow-md ${bgColor} flex flex-col justify-center items-center p-8`}>
+        <div className={`rounded-md w-70 max-h-full shadow-md ${bgColor} flex flex-col justify-center items-center p-8 hover:bg-orange/70`}>
           <h2 className="text-base font-bold pb-8 text-white">{title}</h2>
           <img src={src} className="h-28 w-28 mx-auto" />
           <p className="text-base md:text-xl pt-8 pb-4 font-bold text-center break-words">{content}</p>
