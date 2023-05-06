@@ -11,17 +11,17 @@ export default function Video() {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 p-12 gap-8">
         <CardVideo
-          src="/images/video.png"
+          src="/images/video1.svg"
           content="
             Show do RASHID no Teatro CIEE? Essa foi a festa das Oficinas de Cri@atividades!"
         ></CardVideo>
         <CardVideo
-          src="/images/video.png"
+          src="/images/video2.svg"
           content="
             Show do RASHID no Teatro CIEE? Essa foi a festa das Oficinas de Cri@atividades!"
         ></CardVideo>
         <CardVideo
-          src="/images/video.png"
+          src="/images/video3.svg"
           content="
             Show do RASHID no Teatro CIEE? Essa foi a festa das Oficinas de Cri@atividades!"
         ></CardVideo>

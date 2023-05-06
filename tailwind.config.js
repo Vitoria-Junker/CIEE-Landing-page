@@ -18,7 +18,8 @@ module.exports = {
         'pink': '#ee516d',
         'brown': '#e5dac1',
         'ocean': '#b9e2dc',
-        'grey-1': '#586987'
+        'grey-1': '#586987',
+        'orange':'#f89d63'
       },
       textColor: {
         'primary': '#4D525C',

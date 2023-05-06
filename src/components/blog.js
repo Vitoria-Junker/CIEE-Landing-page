@@ -14,17 +14,17 @@ export default function Blog() {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 p-12 gap-8">
           <CardBlog
-            src="/images/ciee.png"
+            src="/images/blog3.png"
             title="CIEE SABER VIRTUAL"
             content="Tem curso novo para você no CIEE Saber Virtual!"
           ></CardBlog>
           <CardBlog
-            src="/images/ciee.png"
+            src="/images/blog2.png"
             title="CIEE SABER VIRTUAL"
             content="Tem curso novo para você no CIEE Saber Virtual!"
           ></CardBlog>
           <CardBlog
-            src="/images/ciee.png"
+            src="/images/blog1.png"
             title="CIEE SABER VIRTUAL"
             content="Tem curso novo para você no CIEE Saber Virtual!"
           ></CardBlog>

@@ -19,25 +19,25 @@ export default function Iniciativas() {
             src="/images/focus.svg"
             title="CIEE SABER VIRTUAL"
             content="Tem curso novo para você no CIEE Saber Virtual!"
-            bgColor="bg-pink"
+            bgColor="bg-orange"
           ></IniciativasCard>
           <IniciativasCard
             src="/images/hair.png"
             title="CIEE SABER VIRTUAL"
             content="Tem curso novo para você no CIEE Saber Virtual!"
-            bgColor="bg-brown"
+            bgColor="bg-orange"
           ></IniciativasCard>
           <IniciativasCard
             src="/images/podcast.svg"
             title="CIEE SABER VIRTUAL"
             content="Tem curso novo para você no CIEE Saber Virtual!"
-            bgColor="bg-ocean"
+            bgColor="bg-orange"
           ></IniciativasCard>
           <IniciativasCard
             src="/images/site.svg"
             title="CIEE SABER VIRTUAL"
             content="Tem curso novo para você no CIEE Saber Virtual!"
-            bgColor="bg-grey-1"
+            bgColor="bg-orange"
           ></IniciativasCard>
         </div>
       </section>

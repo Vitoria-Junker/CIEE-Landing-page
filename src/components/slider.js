@@ -24,23 +24,23 @@ class SimpleSlider extends Component {
       ],
     };
     return (
-      <Slider {...settings} className="h-screen w-full">
+      <Slider {...settings} className=" h-screen w-full">
         <div className="h-screen w-full">
           <img
-            src="/images/woman-phone.jpg"
-            className="w-full h-full object-cover max-sm:object-right"
+            src="/images/undraw1.svg"
+            className="w-full h-full object-contain"
           />
         </div>
         <div className="h-screen w-full ">
           <img
-            src="/images/rosa.jpg"
-            className="h-screen w-full object-cover max-sm:object-right"
+            src="/images/undraw2.svg"
+            className="h-screen w-full object-contain"
           />
         </div>
         <div className="h-screen w-full">
           <img
-            src="/images/casa.jpg"
-            className="h-screen  w-full object-cover max-sm:object-right"
+            src="/images/undrow3.svg"
+            className="h-screen  w-full object-contain"
           />
         </div>
       </Slider>
