@@ -14,7 +14,7 @@ export default function Iniciativas() {
             Ver tudo
           </Link>
         </div>
-        <div className="p-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-12">
+        <div className="p-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-12">
           <IniciativasCard
             src="/images/focus.svg"
             title="CIEE SABER VIRTUAL"

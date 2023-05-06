@@ -28,19 +28,19 @@ class SimpleSlider extends Component {
         <div className="h-screen w-full">
           <img
             src="/images/woman-phone.jpg"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover max-sm:object-right"
           />
         </div>
-        <div className="h-screen w-full">
+        <div className="h-screen w-full ">
           <img
             src="/images/rosa.jpg"
-            className="h-screen w-full object-cover"
+            className="h-screen w-full object-cover max-sm:object-right"
           />
         </div>
         <div className="h-screen w-full">
           <img
             src="/images/casa.jpg"
-            className="h-screen  w-full object-cover"
+            className="h-screen  w-full object-cover max-sm:object-right"
           />
         </div>
       </Slider>

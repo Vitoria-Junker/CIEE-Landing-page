@@ -4,7 +4,7 @@ import CardBlog from "./cards/cardBlog";
 export default function Blog() {
   return (
     <>
-      <section className="bg-off-white">
+      <section className="bg-off-white pt-12">
         <div className=" p-4 pl-12 flex gap-4">
           <h1 className="font-bold text-3xl ">Blog</h1>
           <Link href="/" className="hover:underline mt-2">

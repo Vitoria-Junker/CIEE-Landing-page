@@ -3,7 +3,7 @@ import { useMediaQuery } from "react-responsive";
 
 export default function Navbar() {
   const [showMenu, setShowMenu] = useState(false);
-  const isMobile = useMediaQuery({ maxWidth: 768 });
+  const isMobile = useMediaQuery({ maxWidth: 800 });
 
   const toggleMenu = () => {
     setShowMenu(!showMenu);
